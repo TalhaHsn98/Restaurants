@@ -1,1 +1,1 @@
-Restaurants Web API 
+Restaurants Web API using .NET core and implementing CQRS pattern
