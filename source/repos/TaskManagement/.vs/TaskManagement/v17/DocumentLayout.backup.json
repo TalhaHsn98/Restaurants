@@ -1,0 +1,424 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\talha\\source\\repos\\TaskManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB26E28-7437-B8EC-8F7C-36FACD9B2CE9}|TaskManagement.Core\\TaskManagement.Core.csproj|c:\\users\\talha\\source\\repos\\taskmanagement\\taskmanagement.core\\exceptions\\domainvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB26E28-7437-B8EC-8F7C-36FACD9B2CE9}|TaskManagement.Core\\TaskManagement.Core.csproj|solutionrelative:taskmanagement.core\\exceptions\\domainvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B3264E6-71AA-4C4D-913C-712BC746E0DB}|TaskManagement\\TaskManagement.API.csproj|c:\\users\\talha\\source\\repos\\taskmanagement\\taskmanagement\\dtos\\createtaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B3264E6-71AA-4C4D-913C-712BC746E0DB}|TaskManagement\\TaskManagement.API.csproj|solutionrelative:taskmanagement\\dtos\\createtaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B3264E6-71AA-4C4D-913C-712BC746E0DB}|TaskManagement\\TaskManagement.API.csproj|c:\\users\\talha\\source\\repos\\taskmanagement\\taskmanagement\\dtos\\updatetaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B3264E6-71AA-4C4D-913C-712BC746E0DB}|TaskManagement\\TaskManagement.API.csproj|solutionrelative:taskmanagement\\dtos\\updatetaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B3264E6-71AA-4C4D-913C-712BC746E0DB}|TaskManagement\\TaskManagement.API.csproj|c:\\users\\talha\\source\\repos\\taskmanagement\\taskmanagement\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B3264E6-71AA-4C4D-913C-712BC746E0DB}|TaskManagement\\TaskManagement.API.csproj|solutionrelative:taskmanagement\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CE39A4-59E2-46C8-9BEC-719541DE19D5}|TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|c:\\users\\talha\\source\\repos\\taskmanagement\\taskmanagement.infrastructure\\taskmanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15CE39A4-59E2-46C8-9BEC-719541DE19D5}|TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|solutionrelative:taskmanagement.infrastructure\\taskmanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B3264E6-71AA-4C4D-913C-712BC746E0DB}|TaskManagement\\TaskManagement.API.csproj|c:\\users\\talha\\source\\repos\\taskmanagement\\taskmanagement\\taskmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B3264E6-71AA-4C4D-913C-712BC746E0DB}|TaskManagement\\TaskManagement.API.csproj|solutionrelative:taskmanagement\\taskmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CE39A4-59E2-46C8-9BEC-719541DE19D5}|TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|c:\\users\\talha\\source\\repos\\taskmanagement\\taskmanagement.infrastructure\\migrations\\20251223210556_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CE39A4-59E2-46C8-9BEC-719541DE19D5}|TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|solutionrelative:taskmanagement.infrastructure\\migrations\\20251223210556_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CE39A4-59E2-46C8-9BEC-719541DE19D5}|TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|c:\\users\\talha\\source\\repos\\taskmanagement\\taskmanagement.infrastructure\\migrations\\20251223210556_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CE39A4-59E2-46C8-9BEC-719541DE19D5}|TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|solutionrelative:taskmanagement.infrastructure\\migrations\\20251223210556_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB26E28-7437-B8EC-8F7C-36FACD9B2CE9}|TaskManagement.Core\\TaskManagement.Core.csproj|c:\\users\\talha\\source\\repos\\taskmanagement\\taskmanagement.core\\taskmanagement.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ABB26E28-7437-B8EC-8F7C-36FACD9B2CE9}|TaskManagement.Core\\TaskManagement.Core.csproj|solutionrelative:taskmanagement.core\\taskmanagement.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B3264E6-71AA-4C4D-913C-712BC746E0DB}|TaskManagement\\TaskManagement.API.csproj|c:\\users\\talha\\source\\repos\\taskmanagement\\taskmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B3264E6-71AA-4C4D-913C-712BC746E0DB}|TaskManagement\\TaskManagement.API.csproj|solutionrelative:taskmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B3264E6-71AA-4C4D-913C-712BC746E0DB}|TaskManagement\\TaskManagement.API.csproj|c:\\users\\talha\\source\\repos\\taskmanagement\\taskmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B3264E6-71AA-4C4D-913C-712BC746E0DB}|TaskManagement\\TaskManagement.API.csproj|solutionrelative:taskmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B3264E6-71AA-4C4D-913C-712BC746E0DB}|TaskManagement\\TaskManagement.API.csproj|c:\\users\\talha\\source\\repos\\taskmanagement\\taskmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B3264E6-71AA-4C4D-913C-712BC746E0DB}|TaskManagement\\TaskManagement.API.csproj|solutionrelative:taskmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB26E28-7437-B8EC-8F7C-36FACD9B2CE9}|TaskManagement.Core\\TaskManagement.Core.csproj|c:\\users\\talha\\source\\repos\\taskmanagement\\taskmanagement.core\\services\\businesscalendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB26E28-7437-B8EC-8F7C-36FACD9B2CE9}|TaskManagement.Core\\TaskManagement.Core.csproj|solutionrelative:taskmanagement.core\\services\\businesscalendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB26E28-7437-B8EC-8F7C-36FACD9B2CE9}|TaskManagement.Core\\TaskManagement.Core.csproj|c:\\users\\talha\\source\\repos\\taskmanagement\\taskmanagement.core\\services\\systemdatetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB26E28-7437-B8EC-8F7C-36FACD9B2CE9}|TaskManagement.Core\\TaskManagement.Core.csproj|solutionrelative:taskmanagement.core\\services\\systemdatetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB26E28-7437-B8EC-8F7C-36FACD9B2CE9}|TaskManagement.Core\\TaskManagement.Core.csproj|c:\\users\\talha\\source\\repos\\taskmanagement\\taskmanagement.core\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB26E28-7437-B8EC-8F7C-36FACD9B2CE9}|TaskManagement.Core\\TaskManagement.Core.csproj|solutionrelative:taskmanagement.core\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CE39A4-59E2-46C8-9BEC-719541DE19D5}|TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|c:\\users\\talha\\source\\repos\\taskmanagement\\taskmanagement.infrastructure\\data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CE39A4-59E2-46C8-9BEC-719541DE19D5}|TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|solutionrelative:taskmanagement.infrastructure\\data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CE39A4-59E2-46C8-9BEC-719541DE19D5}|TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|c:\\users\\talha\\source\\repos\\taskmanagement\\taskmanagement.infrastructure\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CE39A4-59E2-46C8-9BEC-719541DE19D5}|TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|solutionrelative:taskmanagement.infrastructure\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB26E28-7437-B8EC-8F7C-36FACD9B2CE9}|TaskManagement.Core\\TaskManagement.Core.csproj|c:\\users\\talha\\source\\repos\\taskmanagement\\taskmanagement.core\\domain\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB26E28-7437-B8EC-8F7C-36FACD9B2CE9}|TaskManagement.Core\\TaskManagement.Core.csproj|solutionrelative:taskmanagement.core\\domain\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB26E28-7437-B8EC-8F7C-36FACD9B2CE9}|TaskManagement.Core\\TaskManagement.Core.csproj|c:\\users\\talha\\source\\repos\\taskmanagement\\taskmanagement.core\\domain\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB26E28-7437-B8EC-8F7C-36FACD9B2CE9}|TaskManagement.Core\\TaskManagement.Core.csproj|solutionrelative:taskmanagement.core\\domain\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB26E28-7437-B8EC-8F7C-36FACD9B2CE9}|TaskManagement.Core\\TaskManagement.Core.csproj|c:\\users\\talha\\source\\repos\\taskmanagement\\taskmanagement.core\\contracts\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB26E28-7437-B8EC-8F7C-36FACD9B2CE9}|TaskManagement.Core\\TaskManagement.Core.csproj|solutionrelative:taskmanagement.core\\contracts\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B3DD47-6C22-46A5-8B73-23BC12AB8884}|TaskManagement.Tests\\TaskManagement.Tests.csproj|c:\\users\\talha\\source\\repos\\taskmanagement\\taskmanagement.tests\\taskmanagement.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0B3DD47-6C22-46A5-8B73-23BC12AB8884}|TaskManagement.Tests\\TaskManagement.Tests.csproj|solutionrelative:taskmanagement.tests\\taskmanagement.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B3DD47-6C22-46A5-8B73-23BC12AB8884}|TaskManagement.Tests\\TaskManagement.Tests.csproj|c:\\users\\talha\\source\\repos\\taskmanagement\\taskmanagement.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B3DD47-6C22-46A5-8B73-23BC12AB8884}|TaskManagement.Tests\\TaskManagement.Tests.csproj|solutionrelative:taskmanagement.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1279,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 38,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DomainValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement.Core\\Exceptions\\DomainValidationException.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Core\\Exceptions\\DomainValidationException.cs",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement.Core\\Exceptions\\DomainValidationException.cs",
+              "RelativeToolTip": "TaskManagement.Core\\Exceptions\\DomainValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T22:24:38.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskManagement.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
+              "RelativeToolTip": "TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-23T17:09:25.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TaskManagement\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAmwC0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:11:48.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateTaskRequest.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement\\DTOs\\CreateTaskRequest.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\DTOs\\CreateTaskRequest.cs",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement\\DTOs\\CreateTaskRequest.cs",
+              "RelativeToolTip": "TaskManagement\\DTOs\\CreateTaskRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:07:32.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateTaskRequest.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement\\DTOs\\UpdateTaskRequest.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\DTOs\\UpdateTaskRequest.cs",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement\\DTOs\\UpdateTaskRequest.cs",
+              "RelativeToolTip": "TaskManagement\\DTOs\\UpdateTaskRequest.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA7wAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:10:52.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskManagement.API.csproj",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement\\TaskManagement.API.csproj",
+              "RelativeDocumentMoniker": "TaskManagement\\TaskManagement.API.csproj",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement\\TaskManagement.API.csproj",
+              "RelativeToolTip": "TaskManagement\\TaskManagement.API.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-23T02:35:13.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20251223210556_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement.Infrastructure\\Migrations\\20251223210556_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Infrastructure\\Migrations\\20251223210556_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement.Infrastructure\\Migrations\\20251223210556_InitialCreate.cs",
+              "RelativeToolTip": "TaskManagement.Infrastructure\\Migrations\\20251223210556_InitialCreate.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T21:05:56.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20251223210556_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement.Infrastructure\\Migrations\\20251223210556_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Infrastructure\\Migrations\\20251223210556_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement.Infrastructure\\Migrations\\20251223210556_InitialCreate.Designer.cs",
+              "RelativeToolTip": "TaskManagement.Infrastructure\\Migrations\\20251223210556_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T21:06:14.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskManagement.Core",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement.Core\\TaskManagement.Core.csproj",
+              "RelativeDocumentMoniker": "TaskManagement.Core\\TaskManagement.Core.csproj",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement.Core\\TaskManagement.Core.csproj",
+              "RelativeToolTip": "TaskManagement.Core\\TaskManagement.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-23T18:27:06.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement\\Program.cs",
+              "RelativeToolTip": "TaskManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T17:18:10.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement\\appsettings.json",
+              "RelativeToolTip": "TaskManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-23T17:18:12.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TaskManagement\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TaskManagement\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-23T18:58:29.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BusinessCalendar.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement.Core\\Services\\BusinessCalendar.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Core\\Services\\BusinessCalendar.cs",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement.Core\\Services\\BusinessCalendar.cs",
+              "RelativeToolTip": "TaskManagement.Core\\Services\\BusinessCalendar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:52:18.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SystemDateTimeProvider.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement.Core\\Services\\SystemDateTimeProvider.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Core\\Services\\SystemDateTimeProvider.cs",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement.Core\\Services\\SystemDateTimeProvider.cs",
+              "RelativeToolTip": "TaskManagement.Core\\Services\\SystemDateTimeProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:52:12.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement.Core\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Core\\Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement.Core\\Services\\TaskService.cs",
+              "RelativeToolTip": "TaskManagement.Core\\Services\\TaskService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:29:27.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement.Infrastructure\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Infrastructure\\Repositories\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement.Infrastructure\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "TaskManagement.Infrastructure\\Repositories\\TaskRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T17:15:26.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TaskDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement.Infrastructure\\Data\\TaskDbContext.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Infrastructure\\Data\\TaskDbContext.cs",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement.Infrastructure\\Data\\TaskDbContext.cs",
+              "RelativeToolTip": "TaskManagement.Infrastructure\\Data\\TaskDbContext.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwFcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T17:11:10.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TaskPriority.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement.Core\\Domain\\TaskPriority.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Core\\Domain\\TaskPriority.cs",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement.Core\\Domain\\TaskPriority.cs",
+              "RelativeToolTip": "TaskManagement.Core\\Domain\\TaskPriority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:30:44.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement.Core\\Domain\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Core\\Domain\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement.Core\\Domain\\TaskItem.cs",
+              "RelativeToolTip": "TaskManagement.Core\\Domain\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:29:51.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement.Core\\Contracts\\ITaskService.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Core\\Contracts\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement.Core\\Contracts\\ITaskService.cs",
+              "RelativeToolTip": "TaskManagement.Core\\Contracts\\ITaskService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:30:24.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TaskManagement.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement.Tests\\TaskManagement.Tests.csproj",
+              "RelativeDocumentMoniker": "TaskManagement.Tests\\TaskManagement.Tests.csproj",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement.Tests\\TaskManagement.Tests.csproj",
+              "RelativeToolTip": "TaskManagement.Tests\\TaskManagement.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-23T14:29:41.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "TaskManagement.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T02:36:57.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

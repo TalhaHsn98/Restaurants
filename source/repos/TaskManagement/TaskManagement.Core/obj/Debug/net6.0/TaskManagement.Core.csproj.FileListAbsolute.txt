@@ -1,0 +1,13 @@
+C:\Users\talha\source\repos\TaskManagement\TaskManagement.Core\bin\Debug\net6.0\TaskManagement.Core.deps.json
+C:\Users\talha\source\repos\TaskManagement\TaskManagement.Core\bin\Debug\net6.0\TaskManagement.Core.dll
+C:\Users\talha\source\repos\TaskManagement\TaskManagement.Core\bin\Debug\net6.0\TaskManagement.Core.pdb
+C:\Users\talha\source\repos\TaskManagement\TaskManagement.Core\obj\Debug\net6.0\TaskManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\source\repos\TaskManagement\TaskManagement.Core\obj\Debug\net6.0\TaskManagement.Core.AssemblyInfoInputs.cache
+C:\Users\talha\source\repos\TaskManagement\TaskManagement.Core\obj\Debug\net6.0\TaskManagement.Core.AssemblyInfo.cs
+C:\Users\talha\source\repos\TaskManagement\TaskManagement.Core\obj\Debug\net6.0\TaskManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\TaskManagement\TaskManagement.Core\obj\Debug\net6.0\TaskManagement.Core.sourcelink.json
+C:\Users\talha\source\repos\TaskManagement\TaskManagement.Core\obj\Debug\net6.0\TaskManagement.Core.dll
+C:\Users\talha\source\repos\TaskManagement\TaskManagement.Core\obj\Debug\net6.0\refint\TaskManagement.Core.dll
+C:\Users\talha\source\repos\TaskManagement\TaskManagement.Core\obj\Debug\net6.0\TaskManagement.Core.pdb
+C:\Users\talha\source\repos\TaskManagement\TaskManagement.Core\obj\Debug\net6.0\ref\TaskManagement.Core.dll
+C:\Users\talha\source\repos\TaskManagement\TaskManagement.Core\obj\Debug\net6.0\TaskManagement.Core.csproj.AssemblyReference.cache

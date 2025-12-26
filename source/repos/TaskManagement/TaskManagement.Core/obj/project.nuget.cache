@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qoR3SsEclgA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\talha\\source\\repos\\TaskManagement\\TaskManagement.Core\\TaskManagement.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\talha\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.1\\microsoft.extensions.configuration.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\talha\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.1\\microsoft.extensions.configuration.binder.6.0.1.nupkg.sha512",
+    "C:\\Users\\talha\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.1\\microsoft.extensions.primitives.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
